@@ -1,0 +1,39 @@
+{
+  "Enemies": [
+    {
+      "EnemyName": "Grunt",
+      "Health": 12,
+      "Speed": 1.0,
+      "Reward": 0,
+      "IsBoss": false
+    },
+    {
+      "EnemyName": "Sprinter",
+      "Health": 8,
+      "Speed": 2.25,
+      "Reward": 0,
+      "IsBoss": false
+    },
+    {
+      "EnemyName": "Tank",
+      "Health": 45,
+      "Speed": 1.0,
+      "Reward": 0,
+      "IsBoss": false
+    },
+    {
+      "EnemyName": "Flyer",
+      "Health": 18,
+      "Speed": 1.6,
+      "Reward": 0,
+      "IsBoss": false
+    },
+    {
+      "EnemyName": "Overlord",
+      "Health": 250,
+      "Speed": 1.0,
+      "Reward": 25,
+      "IsBoss": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dc8c182a8305fa439eb97fe159acf40, type: 3}
+  m_Name: Canon
+  m_EditorClassIdentifier: Scripts::TowerSO
+  TowerName: Canon
+  TowerShape: '010
+
+    111
+
+    010'
+  TowerDescription: A rapid-fire cannon that shoots cannonballs at enemies.
+  Price: 95
+  Range: 4.6
+  FireTimer: 1.2
+  BulletDamage: 6
+  TowerCursorPrefab: {fileID: 7916021353469872410, guid: b85e7f7112419cb41a1d9741e8bc8be3, type: 3}
+  TowerPrefab: {fileID: 940899939754101102, guid: 56aa8a9b45cf7634482ef7bef195a77c, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dc8c182a8305fa439eb97fe159acf40, type: 3}
+  m_Name: Catapult
+  m_EditorClassIdentifier: Scripts::TowerSO
+  TowerName: Catapult
+  TowerShape: '0010
+
+    1111
+
+    0010'
+  TowerDescription: A catapult that hurls explosive projectiles at enemies from a
+    distance.
+  Price: 110
+  Range: 4.2
+  FireTimer: 4.5
+  BulletDamage: 24
+  TowerCursorPrefab: {fileID: 2623325576785550034, guid: 2ca430785af60d54d8ef87d89614251b, type: 3}
+  TowerPrefab: {fileID: 1646979071176658697, guid: 778ffdc4f7999c745b6ef7c404441dd2, type: 3}

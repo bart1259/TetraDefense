@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dc8c182a8305fa439eb97fe159acf40, type: 3}
+  m_Name: Mortar
+  m_EditorClassIdentifier: Scripts::TowerSO
+  TowerName: Mortar
+  TowerShape: '11
+
+    11'
+  TowerDescription: A mortar that launches long-range shells.
+  Price: 170
+  Range: 7.2
+  FireTimer: 4
+  BulletDamage: 20
+  TowerCursorPrefab: {fileID: 4097474763628024594, guid: 09d270b068553de4eae64e36d57e5b1c, type: 3}
+  TowerPrefab: {fileID: 1237147741980476811, guid: 18aba2d5fcbea03489e3b104a5edbaee, type: 3}

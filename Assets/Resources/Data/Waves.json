@@ -1,0 +1,105 @@
+{
+  "Waves": [
+    {
+      "WaveNumber": 1,
+      "BuildDurationSeconds": 25,
+      "WaveReward": 120,
+      "Enemies": [
+        { "EnemyName": "Grunt", "Quantity": 5, "TimeBetweenReleaseSeconds": 3.0 }
+      ]
+    },
+    {
+      "WaveNumber": 2,
+      "BuildDurationSeconds": 25,
+      "WaveReward": 160,
+      "Enemies": [
+        { "EnemyName": "Grunt", "Quantity": 5, "TimeBetweenReleaseSeconds": 2.0 },
+        { "EnemyName": "Sprinter", "Quantity": 5, "TimeBetweenReleaseSeconds": 1.5 }
+      ]
+    },
+    {
+      "WaveNumber": 3,
+      "BuildDurationSeconds": 28,
+      "WaveReward": 220,
+      "Enemies": [
+        { "EnemyName": "Grunt", "Quantity": 8, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Tank", "Quantity": 2, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Grunt", "Quantity": 8, "TimeBetweenReleaseSeconds": 1.0 }
+      ]
+    },
+    {
+      "WaveNumber": 4,
+      "BuildDurationSeconds": 30,
+      "WaveReward": 240,
+      "Enemies": [
+        { "EnemyName": "Grunt", "Quantity": 10, "TimeBetweenReleaseSeconds": 0.8 },
+        { "EnemyName": "Sprinter", "Quantity": 10, "TimeBetweenReleaseSeconds": 0.8 },
+        { "EnemyName": "Grunt", "Quantity": 10, "TimeBetweenReleaseSeconds": 0.8 }
+      ]
+    },
+    {
+      "WaveNumber": 5,
+      "BuildDurationSeconds": 32,
+      "WaveReward": 260,
+      "Enemies": [
+        { "EnemyName": "Grunt", "Quantity": 10, "TimeBetweenReleaseSeconds": 0.8 },
+        { "EnemyName": "Tank", "Quantity": 8, "TimeBetweenReleaseSeconds": 0.8 },
+        { "EnemyName": "Flyer", "Quantity": 10, "TimeBetweenReleaseSeconds": 0.8 }
+      ]
+    },
+    {
+      "WaveNumber": 6,
+      "BuildDurationSeconds": 35,
+      "WaveReward": 280,
+      "Enemies": [
+        { "EnemyName": "Tank", "Quantity": 15, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Sprinter", "Quantity": 10, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Tank", "Quantity": 10, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Flyer", "Quantity": 8, "TimeBetweenReleaseSeconds": 1.0 }
+      ]
+    },
+    {
+      "WaveNumber": 7,
+      "BuildDurationSeconds": 38,
+      "WaveReward": 300,
+      "Enemies": [
+        { "EnemyName": "Tank", "Quantity": 20, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Flyer", "Quantity": 15, "TimeBetweenReleaseSeconds": 0.5 },
+        { "EnemyName": "Tank", "Quantity": 20, "TimeBetweenReleaseSeconds": 1.0 }
+      ]
+    },
+    {
+      "WaveNumber": 8,
+      "BuildDurationSeconds": 40,
+      "WaveReward": 320,
+      "Enemies": [
+        { "EnemyName": "Grunt", "Quantity": 20, "TimeBetweenReleaseSeconds": 0.8 },
+        { "EnemyName": "Overlord", "Quantity": 1, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Tank", "Quantity": 3, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Sprinter", "Quantity": 20, "TimeBetweenReleaseSeconds": 0.5 }
+      ]
+    },
+    {
+      "WaveNumber": 9,
+      "BuildDurationSeconds": 45,
+      "WaveReward": 340,
+      "Enemies": [
+        { "EnemyName": "Tank", "Quantity": 10, "TimeBetweenReleaseSeconds": 0.75 },
+        { "EnemyName": "Sprinter", "Quantity": 18, "TimeBetweenReleaseSeconds": 0.85 },
+        { "EnemyName": "Tank", "Quantity": 10, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Flyer", "Quantity": 14, "TimeBetweenReleaseSeconds": 1.1 }
+      ]
+    },
+    {
+      "WaveNumber": 10,
+      "BuildDurationSeconds": 55,
+      "WaveReward": 360,
+      "Enemies": [
+        { "EnemyName": "Tank", "Quantity": 25, "TimeBetweenReleaseSeconds": 1.2 },
+        { "EnemyName": "Overlord", "Quantity": 2, "TimeBetweenReleaseSeconds": 2.0 },
+        { "EnemyName": "Flyer", "Quantity": 20, "TimeBetweenReleaseSeconds": 1.0 },
+        { "EnemyName": "Sprinter", "Quantity": 25, "TimeBetweenReleaseSeconds": 0.5 }
+      ]
+    }
+  ]
+}

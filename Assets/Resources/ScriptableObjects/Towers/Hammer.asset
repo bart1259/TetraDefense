@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dc8c182a8305fa439eb97fe159acf40, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: Scripts::TowerSO
+  TowerName: Hammer
+  TowerShape: 11
+  TowerDescription: A compact yet powerful tower that smashes nearby enemies with
+    a giant hammer.
+  Price: 220
+  Range: 0.9
+  FireTimer: 5
+  BulletDamage: 24
+  TowerCursorPrefab: {fileID: 8276205016657415611, guid: 2474e270bf3a43f4e9d8c0ea934c2116, type: 3}
+  TowerPrefab: {fileID: 1674863203357289644, guid: be345b178518c0c4ca6fcda0e6422451, type: 3}

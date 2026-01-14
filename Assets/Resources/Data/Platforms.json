@@ -1,0 +1,304 @@
+{
+  "Platforms": [
+    {
+      "PlatformName": "Dot",
+      "PlatformShape": "1",
+      "PlatformColor": "7D6D5C",
+      "Price": 30
+    },
+    {
+      "PlatformName": "Domino",
+      "PlatformShape": "11",
+      "PlatformColor": "887968",
+      "Price": 26
+    },
+    {
+      "PlatformName": "Bar3",
+      "PlatformShape": "111",
+      "PlatformColor": "948573",
+      "Price": 26
+    },
+    {
+      "PlatformName": "Corner3",
+      "PlatformShape": "10\n11",
+      "PlatformColor": "A0917F",
+      "Price": 24
+    },
+    {
+      "PlatformName": "I4",
+      "PlatformShape": "1111",
+      "PlatformColor": "AB9D8B",
+      "Price": 23
+    },
+    {
+      "PlatformName": "O4",
+      "PlatformShape": "11\n11",
+      "PlatformColor": "B7A997",
+      "Price": 23
+    },
+    {
+      "PlatformName": "T4",
+      "PlatformShape": "111\n010",
+      "PlatformColor": "BFB19F",
+      "Price": 22
+    },
+    {
+      "PlatformName": "L4",
+      "PlatformShape": "100\n111",
+      "PlatformColor": "C7B9A7",
+      "Price": 22
+    },
+    {
+      "PlatformName": "J4",
+      "PlatformShape": "001\n111",
+      "PlatformColor": "D3C5B3",
+      "Price": 22
+    },
+    {
+      "PlatformName": "S4",
+      "PlatformShape": "011\n110",
+      "PlatformColor": "DED1BE",
+      "Price": 21
+    },
+    {
+      "PlatformName": "Z4",
+      "PlatformShape": "110\n011",
+      "PlatformColor": "EADDCA",
+      "Price": 21
+    },
+    {
+      "PlatformName": "Bar5",
+      "PlatformShape": "11111",
+      "PlatformColor": "A0917F",
+      "Price": 18
+    },
+    {
+      "PlatformName": "Hook5",
+      "PlatformShape": "100\n100\n111",
+      "PlatformColor": "AA9B8A",
+      "Price": 18
+    },
+    {
+      "PlatformName": "Fork5",
+      "PlatformShape": "111\n010\n010",
+      "PlatformColor": "B2A392",
+      "Price": 17
+    },
+    {
+      "PlatformName": "Vee5",
+      "PlatformShape": "100\n100\n111",
+      "PlatformColor": "B9AB99",
+      "Price": 17
+    },
+    {
+      "PlatformName": "Cup5",
+      "PlatformShape": "101\n111",
+      "PlatformColor": "C1B3A1",
+      "Price": 16
+    },
+    {
+      "PlatformName": "BlockP5",
+      "PlatformShape": "11\n11\n10",
+      "PlatformColor": "938472",
+      "Price": 16
+    },
+    {
+      "PlatformName": "Plus5",
+      "PlatformShape": "010\n111\n010",
+      "PlatformColor": "9D8E7C",
+      "Price": 16
+    },
+    {
+      "PlatformName": "Wedge5",
+      "PlatformShape": "100\n110\n011",
+      "PlatformColor": "8E7F6E",
+      "Price": 16
+    },
+    {
+      "PlatformName": "Step5",
+      "PlatformShape": "110\n011\n001",
+      "PlatformColor": "7D6D5C",
+      "Price": 16
+    },
+    {
+      "PlatformName": "Y5",
+      "PlatformShape": "01\n11\n01\n01",
+      "PlatformColor": "877866",
+      "Price": 16
+    },
+    {
+      "PlatformName": "Z5",
+      "PlatformShape": "111\n001\n001",
+      "PlatformColor": "756655",
+      "Price": 16
+    },
+    {
+      "PlatformName": "F5",
+      "PlatformShape": "011\n110\n010",
+      "PlatformColor": "6A5A49",
+      "Price": 15
+    },
+    {
+      "PlatformName": "Bar6",
+      "PlatformShape": "111111",
+      "PlatformColor": "5E4E3D",
+      "Price": 14
+    },
+    {
+      "PlatformName": "Rect6",
+      "PlatformShape": "111\n111",
+      "PlatformColor": "6D5D4C",
+      "Price": 14
+    },
+    {
+      "PlatformName": "BigT6",
+      "PlatformShape": "111\n010\n010\n010",
+      "PlatformColor": "776756",
+      "Price": 13
+    },
+    {
+      "PlatformName": "SplitL6",
+      "PlatformShape": "1000\n1111\n0001",
+      "PlatformColor": "827362",
+      "Price": 13
+    },
+    {
+      "PlatformName": "Zig6",
+      "PlatformShape": "0011\n0110\n1100",
+      "PlatformColor": "918271",
+      "Price": 12
+    },
+    {
+      "PlatformName": "Snake6",
+      "PlatformShape": "1100\n0110\n0011",
+      "PlatformColor": "9C8D7C",
+      "Price": 12
+    },
+    {
+      "PlatformName": "Chair6",
+      "PlatformShape": "100\n111\n011",
+      "PlatformColor": "AA9B8A",
+      "Price": 12
+    },
+    {
+      "PlatformName": "Arch6",
+      "PlatformShape": "101\n111\n010",
+      "PlatformColor": "B5A795",
+      "Price": 12
+    },
+    {
+      "PlatformName": "Cross6Tail",
+      "PlatformShape": "010\n111\n010\n010",
+      "PlatformColor": "A29381",
+      "Price": 12
+    },
+    {
+      "PlatformName": "Hollow6",
+      "PlatformShape": "111\n101\n100",
+      "PlatformColor": "8F806E",
+      "Price": 12
+    },
+    {
+      "PlatformName": "Spiral6",
+      "PlatformShape": "111\n001\n011",
+      "PlatformColor": "7E6F5E",
+      "Price": 12
+    },
+    {
+      "PlatformName": "Bite6",
+      "PlatformShape": "111\n110\n001",
+      "PlatformColor": "726251",
+      "Price": 12
+    },
+    {
+      "PlatformName": "Bar7",
+      "PlatformShape": "1111111",
+      "PlatformColor": "695948",
+      "Price": 11
+    },
+    {
+      "PlatformName": "BigL7",
+      "PlatformShape": "1\n1\n1\n1\n111",
+      "PlatformColor": "5D4C3C",
+      "Price": 10
+    },
+    {
+      "PlatformName": "Serpent7",
+      "PlatformShape": "1110\n0011\n0110",
+      "PlatformColor": "685747",
+      "Price": 10
+    },
+    {
+      "PlatformName": "Arrow7",
+      "PlatformShape": "001\n111\n011\n001",
+      "PlatformColor": "776756",
+      "Price": 10
+    },
+    {
+      "PlatformName": "BigU7",
+      "PlatformShape": "101\n101\n111",
+      "PlatformColor": "857665",
+      "Price": 9
+    },
+    {
+      "PlatformName": "Notch7",
+      "PlatformShape": "111\n101\n110",
+      "PlatformColor": "938472",
+      "Price": 9
+    },
+    {
+      "PlatformName": "H7",
+      "PlatformShape": "101\n111\n101",
+      "PlatformColor": "8B7C6B",
+      "Price": 9
+    },
+    {
+      "PlatformName": "Gear7",
+      "PlatformShape": "010\n111\n101\n010",
+      "PlatformColor": "736353",
+      "Price": 9
+    },
+    {
+      "PlatformName": "Rect8",
+      "PlatformShape": "1111\n1111",
+      "PlatformColor": "807160",
+      "Price": 10
+    },
+    {
+      "PlatformName": "Frame8",
+      "PlatformShape": "111\n101\n111",
+      "PlatformColor": "685747",
+      "Price": 7
+    },
+    {
+      "PlatformName": "Snake8",
+      "PlatformShape": "1110\n0111\n0011",
+      "PlatformColor": "7E6F5E",
+      "Price": 8
+    },
+    {
+      "PlatformName": "Spiral8",
+      "PlatformShape": "1110\n0010\n0010\n0111",
+      "PlatformColor": "675746",
+      "Price": 7
+    },
+    {
+      "PlatformName": "Tower8",
+      "PlatformShape": "010\n111\n010\n010\n011",
+      "PlatformColor": "857564",
+      "Price": 8
+    },
+    {
+      "PlatformName": "MegaCross9",
+      "PlatformShape": "00100\n00100\n11111\n00100\n00100",
+      "PlatformColor": "615140",
+      "Price": 6
+    },
+    {
+      "PlatformName": "Labyrinth10",
+      "PlatformShape": "1111\n1001\n1111",
+      "PlatformColor": "544333",
+      "Price": 6
+    }
+  ]
+}

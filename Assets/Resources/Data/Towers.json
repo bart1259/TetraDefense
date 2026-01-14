@@ -1,0 +1,49 @@
+{
+  "Towers": [
+    {
+      "TowerName": "Catapult",
+      "TowerShape": "0010\n1111\n0010",
+      "TowerDescription": "A catapult that hurls explosive projectiles at enemies from a distance.",
+      "Price": 110,
+      "Range": 4.2,
+      "FireTimer": 4.5,
+      "BulletDamage": 24.0
+    },
+    {
+      "TowerName": "Mortar",
+      "TowerShape": "11\n11",
+      "TowerDescription": "A mortar that launches long-range shells.",
+      "Price": 170,
+      "Range": 7.2,
+      "FireTimer": 4.0,
+      "BulletDamage": 20.0
+    },
+    {
+      "TowerName": "Hammer",
+      "TowerDescription": "A compact yet powerful tower that smashes nearby enemies with a giant hammer.",
+      "TowerShape": "11",
+      "Price": 220,
+      "Range": 0.9,
+      "FireTimer": 5.0,
+      "BulletDamage": 24.0
+    },
+    {
+      "TowerName": "Laser",
+      "TowerDescription": "A high-tech tower that emits a continuous laser beam to damage enemies over time. Damage given per second.",
+      "TowerShape": "00100\n11111\n10101",
+      "Price": 320,
+      "Range": 6.5,
+      "FireTimer": 0.0,
+      "BulletDamage": 10.0
+    },
+    {
+      "TowerName": "Canon",
+      "TowerDescription": "A rapid-fire cannon that shoots cannonballs at enemies.",
+      "TowerShape": "010\n111\n010",
+      "Price": 95,
+      "Range": 4.6,
+      "FireTimer": 1.2,
+      "BulletDamage": 6.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dc8c182a8305fa439eb97fe159acf40, type: 3}
+  m_Name: Laser
+  m_EditorClassIdentifier: Scripts::TowerSO
+  TowerName: Laser
+  TowerShape: '00100
+
+    11111
+
+    10101'
+  TowerDescription: A high-tech tower that emits a continuous laser beam to damage
+    enemies over time. Damage given per second.
+  Price: 320
+  Range: 6.5
+  FireTimer: 0
+  BulletDamage: 10
+  TowerCursorPrefab: {fileID: 3451282868926033796, guid: 8a72558386551ed4280a80bcfb8419f5, type: 3}
+  TowerPrefab: {fileID: 5170062918412449080, guid: 3e09fdd24fcfef14ea949887ed20a45b, type: 3}
