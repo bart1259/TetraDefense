@@ -2,6 +2,8 @@
 
 A Tower Defense Game made with Unity where platforms and towers are tetris shaped pieces.
 
+You can play the game on [itch.io](https://bart1259.itch.io/tetra-defense).
+
 ![Tetra Defense Screenshot](Images/Game1.png)
 
 ## Architecture
